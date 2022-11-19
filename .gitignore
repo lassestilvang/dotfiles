@@ -1,0 +1,55 @@
+# Temporary files #
+###################
+*~
+
+# Folder view configuration files #
+###################################
+.DS_Store
+.DS_Store?
+Desktop.ini
+
+# Thumbnail cache files #
+#########################
+._*
+Thumbs.db
+ehthumbs.db
+
+# Files that might appear on external disks #
+#############################################
+.Spotlight-V100
+.Trashes
+$RECYCLE.BIN/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.pyc
+*.so
+
+# Archives #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Dev app folders #
+###################
+.fleet/
+.idea/
+.vscode/
+.vagrant/
